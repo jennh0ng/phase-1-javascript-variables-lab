@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2021-11-22T22:13:42.642Z",
-    "end": "2021-11-22T22:13:43.156Z",
-    "duration": 514
+    "start": "2021-11-22T23:40:07.966Z",
+    "end": "2021-11-22T23:40:08.487Z",
+    "duration": 521
   },
   "tests": [
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -59,7 +59,7 @@
     {
       "title": "is set as Scuber",
       "fullTitle": "index.js companyName is set as Scuber",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
